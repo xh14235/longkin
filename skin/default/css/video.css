@@ -1,0 +1,12 @@
+.video-title{border-bottom: 2px solid #286da8;padding: 10px 0;}
+.video-title span{font-size: 18px; display: inline-block;margin: 0 15px;border-left: 5px solid #286da8;padding-left: 10px;}
+.video-title i{font-size: 18px;}
+.video-box{width: 48%; margin: 1%;float: left;}
+.video-title2{border-bottom: 1px solid #286da8;}
+.video-title2 span{display: inline-block;padding: 5px 15px;background: #286da8;color: #fff;}
+.video-left{float: left;width: 38%; margin-right: 2%;}
+.video-left img{width: 100%;}
+.video-right{float: right;width: 58%; margin-left: 2%;}
+.video-right a{display: inline-block;padding: 10px 0;color: #286da8;}
+.video-right p{font-size: 12px;height: 8%;overflow: hidden;}
+.video-right div{font-size: 12px;float: right;color: #666;}
